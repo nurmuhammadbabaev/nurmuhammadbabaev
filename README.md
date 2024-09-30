@@ -1,4 +1,4 @@
-### Hi 👋,I'm Нурмухаммед 
+### Hi 👋, I'm Нурмухаммед 
 
 - 🔭 I’m currently working on Java developer
 - 🌱 I’m currently learning Docker
@@ -7,6 +7,7 @@
 - 💬 Ask me about anything you want to know
 - 📫 How to reach me: 
 - ⚡ Fun fact: I am too handsome ☺️
+
 ### :toolbox: Languages and Tools:
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://javabeat.net/wp-content/uploads/2015/06/spring-logo.png" />
 <img align="left" alt="FireBase" width="40px" style="padding-right:10px;" src="https://d1muf25xaso8hp.cloudfront.net/https%3A%2F%2Fmeta-l.cdn.bubble.io%2Ff1678214001507x239515035225292830%2F1_ti5CnGh_T4Kqy5aCTLJRcg.png?w=&h=&auto=compress&dpr=1&fit=max" />
