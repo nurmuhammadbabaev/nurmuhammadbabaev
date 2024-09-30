@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on exciting projects and startups
 - 🤔 I’m looking for help with ambitious people
 - 💬 Ask me about anything you want to know
-- 📫 How to reach me: https://linktr.ee/abduganiuulu_manas
+- 📫 How to reach me: 
 - ⚡ Fun fact: I am too handsome ☺️
 ### :toolbox: Languages and Tools:
 <img align="left" alt="Spring" width="40px" style="padding-right:10px;" src="https://javabeat.net/wp-content/uploads/2015/06/spring-logo.png" />
