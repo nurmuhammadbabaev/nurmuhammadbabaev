@@ -16,7 +16,7 @@
 
 ## Связаться со мной
 - Email: ваш_email@example.com
-- LinkedIn: [Ваш профиль](ссылка)
+- LinkedIn: [Ваш профиль](https://ru.linkedin.com/)
 
 <h2>Мои проекты</h2>
 <ul>
