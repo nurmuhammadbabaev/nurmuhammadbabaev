@@ -20,8 +20,6 @@
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://stickersllamita.com/wp-content/uploads/2022/02/Docker-logo-3.png" />
 <img align="left" alt="Amazon" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-   <iframe src="http://127.0.0.1:3000/d-solo/bdzfhhdcglf5sd/cargo-info-dashboard?orgId=1&from=1727674074693&to=1727695674693&panelId=1"
-            width="450" height="200" frameborder="0"></iframe>
 <br/>
 <br>
 <br>
