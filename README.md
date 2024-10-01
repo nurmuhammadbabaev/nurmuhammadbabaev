@@ -26,3 +26,4 @@
 Connect with me:<br>
 <img align="left" alt=" | LinkedIn" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />  
 <img align="left" alt=" | Instagram" width="40px" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" />
+<img align="left" alt=" | GitLab" width="40px" src="https://gitlab.com/nurmuhammadbabaev" />
