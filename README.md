@@ -20,10 +20,10 @@
 <img align="left" alt="Docker" width="40px" style="padding-right:10px;" src="https://stickersllamita.com/wp-content/uploads/2022/02/Docker-logo-3.png" />
 <img align="left" alt="Amazon" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/1200px-Amazon_Web_Services_Logo.svg.png" />
 <img align="left" alt="GitHub" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt=" | GitLab" width="40px" style="padding-right:10px;" src="https://gitlab.com/-/pwa-icons/logo-192.png" />
 <br/>
 <br>
 <br>
 Connect with me:<br>
 <img align="left" alt=" | LinkedIn" width="40px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" />  
 <img align="left" alt=" | Instagram" width="40px" style="padding-right:10px;" src="https://static.vecteezy.com/system/resources/previews/023/986/555/original/instagram-logo-instagram-logo-transparent-instagram-icon-transparent-free-free-png.png" />
-<img align="left" alt=" | GitLab" width="40px" style="padding-right:10px;" src="https://gitlab.com/-/pwa-icons/logo-192.png" />
